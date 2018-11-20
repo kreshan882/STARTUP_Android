@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="text_color">#000003</color>
+    <color name="bg_color">#d5d6d9</color>
+    <color name="btn_bg_color">#6a666b</color>
+    <color name="btn_txt_color">#f7f7f9</color>
+    <color name="login_icon_color">#5d5d63</color>
+    <color name="login_bg">#f1f1f2</color>
+
+    <color name="line">#e76b6b</color>
+    <color name="ovl_color">#FFFF4081</color>
+</resources>
